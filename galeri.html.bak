@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>AURA FIRE Bio</title>
+<style>
+.asalmula{
+width:900px;
+height:2200px;
+border:solid 5px black;
+margin:auto;
+position:relative;
+top:60px;
+background:linear-gradient(#DC143C 50%,white)
+}
+a{ position:relative;
+top:70px;
+border:solid 5px black;
+text-decoration:none;
+font-family:ARIAL Black;
+color:red;
+width:170px;
+height:70px;
+display:inline-block;
+text-align:center;
+padding-top:30px;
+font-size:20px;
+background-color:black
+}
+h1{font-family:arial black;
+text-align:center;
+color:red;
+text-shadow: 0px 0px 10px black;
+position:relative;
+top:-20px;
+}
+.judul{
+width:700px;
+height:50px;
+border:solid 10px black;
+background-image:url("Aura-MPL-S7.jpg");
+margin:auto;
+position:relative;
+top:40px;
+}
+li{
+list-style-type:none;
+float:left;
+}
+ul{
+position:relative;
+left:-180px;
+top:-140px;
+}
+p{
+font-size:20px;
+position:relative;
+left:595px;
+top:15px;
+font-family:arial black;
+}
+.paragraf{
+width:700px;
+height:600px;
+margin:auto;
+
+position:relative;
+top:80px;
+text-align:center;
+font-family:arial black;
+}
+.judul-paragraf{
+width:350px;
+height:50px;
+border:solid 2px black;
+margin:auto;
+text-align:center;
+}
+h2{font-size:25px;
+}
+body{background-image:url('730x480-img-69672-roster-aura-fire-untuk-mpl-indonesia-season-7-instagram-mplidofficial.jpg');
+max-height:100%
+}
+.unik{position:relative;
+left:720px;
+top:-140px;
+}
+img{width:500px;
+}
+img:hover{width:700px;
+}
+</style>
+</head>
+<body>
+
+
+<div class="judul"><h1><b>AURA FIRE</b></h1></div>
+
+<div class="asalmula">
+<p>Galeri</p>
+<li class="unik"><a href="keunikan.html">Keunikan</a></li>
+<ul>
+<li><a href="final project.html">Asal Mula</a></li>
+<li><a href="Member.html">Member</a></li>
+<li><a href="bestmatch.html">Best Match</a></li>
+</ul>
+<div class="paragraf">
+<img src="Aura-Fire.jpg">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="aura-fire-mpl-id-season-8_beedf.jpg">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="MLBB_MPL_ID_S9_AuraFire.jpg">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="1968180605.jpg">
+
+</div>
+</body>
+</html>
